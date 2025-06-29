@@ -24,8 +24,8 @@ Be careful: you need to clone your own forked repository, not the original Acade
 Clone the repository using the command:
 
 bash
-Копировать
-Редактировать
+Copy
+Edit
 git clone your_fork_SSH_address
 This command will clone the repository to your computer and prepare everything needed to get started.
 
